@@ -2,7 +2,38 @@ h1 {
 	font-family: Verdana;
 	font-weight: normal;
 	font-size: 50px;
+	
 	color: white;
 	text-align: center;
 
+}
+
+body{
+	background-color: black;
+	font-family: Verdana;
+	text-align: center;
+}
+
+h2{
+	font-family: Verdena;
+	font-size: 42px;
+	font-weight: 300;
+	color: white;
+}
+
+.download{
+	color: Aquamarine ;
+	font-size: 16px;
+}
+
+.section1{
+	font-family: Verdana;
+	font-size: 21px;
+	color: Gray;
+
+}
+
+.footer{
+	text-align: right;
+	color: Gray;
 }
